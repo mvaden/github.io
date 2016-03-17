@@ -1,0 +1,41 @@
+body {
+  background-color: rgb(185,195,195);
+  margin: 7em auto;
+  color: #fff;
+  border: 5px solid;
+  padding: 0 6em 0 6em;
+}
+
+header {
+  padding-bottom: 20px;
+}
+
+footer {
+  padding-top: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  font-family: Arial, Verdana, sans-serif;
+}
+
+h1, h2, h3 {
+
+}
+
+h1 {
+
+}
+
+h2, h3 {
+
+}
+
+img {
+  float: right;
+  border: solid black;
+  padding: 10em 4em 0 0em;
+}
